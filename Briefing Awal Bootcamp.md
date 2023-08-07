@@ -1,0 +1,18 @@
+Bootcamp Sanbercode angkatan 48 bulan agustus 2023
+- Panduan Umum
+	- Login ke sanbercode.com
+	- Join ke grup tele
+- Alur 4 pekan
+	- Materi tiap hari di sanbercode.com
+	- Tugas harian dengan tenggat 25 jam
+	- Ada live session setiap minggunya
+	- Akhir pekan quiz atau mini project
+	- Pekan ke 4 project akhir sebagai evaluasi dan syarat seminar
+- Tools
+	- sanbercode.com
+	- MS Team
+	- Channel & Grup Telegram
+- Prosedur Penilaian
+	- Penilaian dilakukan random sampling dengan minimal 30% tugas dikumpulkan
+	- Kalau ngawur bisa dilarang ikut kuis
+	- Quiz dicek one by one nggak di random sampling

@@ -1,0 +1,2 @@
+- HTML sekarang agar lebih mudah diphami pakai namanya **semantic element** yang lebih berarti di kodingan daripada <div> dan <span>. Contoh darri semantic element adalah <header> <nav> <section> dll. Bisa dilihat lebih lanjut [disini](https://www.w3schools.com/html/html5_semantic_elements.asp)
+- adadal

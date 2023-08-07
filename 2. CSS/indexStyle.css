@@ -1,0 +1,55 @@
+body{
+    background-image: url(assets/pattern.jpg);
+    margin: 0px; 
+}
+nav{
+    display:flex;
+    background-color:whitesmoke;
+    justify-content:space-between; 
+    align-items: center; 
+    position: fixed;
+    top: 0px;
+    width: 100%;
+}
+a{
+    text-decoration: none;
+}
+nav img {
+    width: auto;
+    max-height: 50px;
+}
+nav li{
+    display: inline;
+    padding: 0 25px;
+}
+hr{
+    border: 0;
+    clear:both;
+    display:block;
+    width: 100%;               
+    background-color:black;
+    height: 1px;
+}
+#article-list{
+    display:grid;
+    padding: 20px 15px;
+    margin: 20px 120px;
+    background-color: white;
+}
+
+#article-list h1 {
+    display:flex;
+    justify-content: center;
+}
+article{
+    margin: 20px 0px
+}
+footer{
+    margin:10px 10px 35px;
+    min-height: 50px;
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    color: white;
+    align-items: center;
+}

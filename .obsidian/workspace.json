@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "4b7fdfe99a3893f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "8244c062f9e8efac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44efbef73ba9d62d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Panduan Pelatihan Laravel 48 new.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cd07163a792a877a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e15c4e1425f1b31",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "694df48dc0fc8411",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "80d718a291e038b0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8a19bc826af0837c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 261.5
+  },
+  "right": {
+    "id": "edebccb442ce49c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "038b7cde12da3ec7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "049cffbabe7f4254",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Panduan Pelatihan Laravel 48 new.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0393d38f1dc36a0b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Panduan Pelatihan Laravel 48 new.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5dc8de94ff90e84b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9860c47b949ff279",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Panduan Pelatihan Laravel 48 new.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "44efbef73ba9d62d",
+  "lastOpenFiles": [
+    "example-app/storage/framework/sessions/zpKK0cCxeVYQiaCGXirPthiPfCuFj80zpMvkqcEa",
+    "example-app/storage/framework/views/98fdf09a7573db4a9aaa3a8323040322.php",
+    "example-app/vendor/webmozart/assert/CHANGELOG.md",
+    "example-app/vendor/webmozart/assert/composer.json",
+    "example-app/vendor/webmozart/assert/LICENSE",
+    "example-app/vendor/webmozart/assert/README.md",
+    "example-app/vendor/voku/portable-ascii/CHANGELOG.md",
+    "example-app/vendor/voku/portable-ascii/composer.json",
+    "example-app/vendor/voku/portable-ascii/LICENSE.txt",
+    "example-app/vendor/voku/portable-ascii/README.md",
+    "example-app/vendor/vlucas/phpdotenv/composer.json",
+    "example-app/vendor/vlucas/phpdotenv/LICENSE",
+    "example-app/vendor/tijsverkoyen/css-to-inline-styles/composer.json",
+    "example-app/vendor/tijsverkoyen/css-to-inline-styles/LICENSE.md",
+    "example-app/vendor/theseer/tokenizer/CHANGELOG.md",
+    "example-app/vendor/theseer/tokenizer/composer.json",
+    "example-app/vendor/theseer/tokenizer/composer.lock",
+    "example-app/vendor/theseer/tokenizer/README.md",
+    "example-app/vendor/symfony/yaml/CHANGELOG.md",
+    "example-app/vendor/symfony/yaml/README.md",
+    "example-app/vendor/symfony/var-dumper/CHANGELOG.md",
+    "example-app/vendor/symfony/var-dumper/README.md",
+    "example-app/vendor/symfony/uid/CHANGELOG.md",
+    "example-app/vendor/symfony/uid/README.md",
+    "example-app/vendor/symfony/translation-contracts/CHANGELOG.md",
+    "example-app/vendor/symfony/translation-contracts/README.md",
+    "example-app/vendor/symfony/translation/CHANGELOG.md",
+    "example-app/vendor/symfony/translation/README.md",
+    "example-app/vendor/symfony/string/CHANGELOG.md",
+    "example-app/vendor/symfony/string/README.md",
+    "example-app/vendor/symfony/service-contracts/CHANGELOG.md",
+    "example-app/vendor/symfony/service-contracts/README.md",
+    "example-app/vendor/symfony/routing/CHANGELOG.md",
+    "example-app/vendor/symfony/routing/README.md",
+    "example-app/vendor/symfony/process/CHANGELOG.md",
+    "example-app/vendor/symfony/process/README.md",
+    "example-app/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/icons/file-directory.svg",
+    "example-app/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/icons/file-code.svg",
+    "example-app/vendor/symfony/error-handler/Resources/assets/images/symfony-logo.svg",
+    "example-app/vendor/symfony/error-handler/Resources/assets/images/icon-support.svg",
+    "example-app/vendor/symfony/error-handler/Resources/assets/images/icon-plus-square.svg",
+    "example-app/vendor/symfony/error-handler/Resources/assets/images/icon-plus-square-o.svg",
+    "example-app/vendor/symfony/error-handler/Resources/assets/images/icon-minus-square-o.svg",
+    "example-app/vendor/symfony/error-handler/Resources/assets/images/icon-minus-square.svg",
+    "example-app/vendor/symfony/error-handler/Resources/assets/images/icon-copy.svg",
+    "example-app/vendor/symfony/error-handler/Resources/assets/images/chevron-right.svg",
+    "Untitled.canvas"
+  ]
+}
