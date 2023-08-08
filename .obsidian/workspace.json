@@ -8,12 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "44efbef73ba9d62d",
+            "id": "48bdcba4ef24354c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Panduan Pelatihan Laravel 48 new.pdf"
+                "file": "2. CSS/Catatan tentang CSS.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Panduan Pelatihan Laravel 48 new.pdf",
+                "file": "2. CSS/Catatan tentang CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Panduan Pelatihan Laravel 48 new.pdf",
+                "file": "2. CSS/Catatan tentang CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Panduan Pelatihan Laravel 48 new.pdf"
+                "file": "2. CSS/Catatan tentang CSS.md"
               }
             }
           }
@@ -144,25 +146,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "44efbef73ba9d62d",
+  "active": "48bdcba4ef24354c",
   "lastOpenFiles": [
+    "example-app/vendor/nikic/php-parser/README.md",
+    "doc/deep-copy.png.md",
+    "2. CSS/Catatan tentang CSS.md",
+    "doc",
+    "example-app/vendor/hamcrest/hamcrest-php/README.md",
+    "6. GIT/Catatan tentang GIT.md",
+    "Panduan Pelatihan Laravel 48 new.pdf",
+    "6. GIT/im-sanbercode-laravel-web-dev/motivasi.txt",
+    "6. GIT/im-sanbercode-laravel-web-dev/data_peserta.txt",
+    "6. GIT/im-sanbercode-laravel-web-dev/README.md",
+    "6. GIT/im-sanbercode-laravel-web-dev",
+    "6. GIT",
+    "New folder",
     "example-app/storage/framework/sessions/zpKK0cCxeVYQiaCGXirPthiPfCuFj80zpMvkqcEa",
     "example-app/storage/framework/views/98fdf09a7573db4a9aaa3a8323040322.php",
     "example-app/vendor/webmozart/assert/CHANGELOG.md",
     "example-app/vendor/webmozart/assert/composer.json",
-    "example-app/vendor/webmozart/assert/LICENSE",
     "example-app/vendor/webmozart/assert/README.md",
     "example-app/vendor/voku/portable-ascii/CHANGELOG.md",
-    "example-app/vendor/voku/portable-ascii/composer.json",
-    "example-app/vendor/voku/portable-ascii/LICENSE.txt",
     "example-app/vendor/voku/portable-ascii/README.md",
-    "example-app/vendor/vlucas/phpdotenv/composer.json",
-    "example-app/vendor/vlucas/phpdotenv/LICENSE",
-    "example-app/vendor/tijsverkoyen/css-to-inline-styles/composer.json",
     "example-app/vendor/tijsverkoyen/css-to-inline-styles/LICENSE.md",
     "example-app/vendor/theseer/tokenizer/CHANGELOG.md",
-    "example-app/vendor/theseer/tokenizer/composer.json",
-    "example-app/vendor/theseer/tokenizer/composer.lock",
     "example-app/vendor/theseer/tokenizer/README.md",
     "example-app/vendor/symfony/yaml/CHANGELOG.md",
     "example-app/vendor/symfony/yaml/README.md",
@@ -177,11 +184,6 @@
     "example-app/vendor/symfony/string/CHANGELOG.md",
     "example-app/vendor/symfony/string/README.md",
     "example-app/vendor/symfony/service-contracts/CHANGELOG.md",
-    "example-app/vendor/symfony/service-contracts/README.md",
-    "example-app/vendor/symfony/routing/CHANGELOG.md",
-    "example-app/vendor/symfony/routing/README.md",
-    "example-app/vendor/symfony/process/CHANGELOG.md",
-    "example-app/vendor/symfony/process/README.md",
     "example-app/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/icons/file-directory.svg",
     "example-app/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/icons/file-code.svg",
     "example-app/vendor/symfony/error-handler/Resources/assets/images/symfony-logo.svg",
