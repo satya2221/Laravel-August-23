@@ -11,11 +11,9 @@
             "id": "48bdcba4ef24354c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "2. CSS/Catatan tentang CSS.md",
-                "mode": "source",
-                "source": false
+                "file": "Panduan Pelatihan Laravel 48 new.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. CSS/Catatan tentang CSS.md",
+                "file": "Panduan Pelatihan Laravel 48 new.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. CSS/Catatan tentang CSS.md",
+                "file": "Panduan Pelatihan Laravel 48 new.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. CSS/Catatan tentang CSS.md"
+                "file": "Panduan Pelatihan Laravel 48 new.pdf"
               }
             }
           }
@@ -146,25 +144,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "48bdcba4ef24354c",
+  "active": "694df48dc0fc8411",
   "lastOpenFiles": [
+    "6. GIT/Catatan tentang GIT.md",
+    "7. PHP Dasar 1/array.php",
+    "7. PHP Dasar 1/string.php",
+    "7. PHP Dasar 1",
+    "New folder",
+    "7. PHP dasar 1",
+    "2. CSS/Catatan tentang CSS.md",
     "example-app/vendor/nikic/php-parser/README.md",
     "doc/deep-copy.png.md",
-    "2. CSS/Catatan tentang CSS.md",
     "doc",
     "example-app/vendor/hamcrest/hamcrest-php/README.md",
-    "6. GIT/Catatan tentang GIT.md",
     "Panduan Pelatihan Laravel 48 new.pdf",
     "6. GIT/im-sanbercode-laravel-web-dev/motivasi.txt",
     "6. GIT/im-sanbercode-laravel-web-dev/data_peserta.txt",
     "6. GIT/im-sanbercode-laravel-web-dev/README.md",
     "6. GIT/im-sanbercode-laravel-web-dev",
-    "6. GIT",
-    "New folder",
-    "example-app/storage/framework/sessions/zpKK0cCxeVYQiaCGXirPthiPfCuFj80zpMvkqcEa",
-    "example-app/storage/framework/views/98fdf09a7573db4a9aaa3a8323040322.php",
     "example-app/vendor/webmozart/assert/CHANGELOG.md",
-    "example-app/vendor/webmozart/assert/composer.json",
     "example-app/vendor/webmozart/assert/README.md",
     "example-app/vendor/voku/portable-ascii/CHANGELOG.md",
     "example-app/vendor/voku/portable-ascii/README.md",
@@ -183,7 +181,6 @@
     "example-app/vendor/symfony/translation/README.md",
     "example-app/vendor/symfony/string/CHANGELOG.md",
     "example-app/vendor/symfony/string/README.md",
-    "example-app/vendor/symfony/service-contracts/CHANGELOG.md",
     "example-app/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/icons/file-directory.svg",
     "example-app/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/icons/file-code.svg",
     "example-app/vendor/symfony/error-handler/Resources/assets/images/symfony-logo.svg",
