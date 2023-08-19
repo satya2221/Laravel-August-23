@@ -11,9 +11,11 @@
             "id": "48bdcba4ef24354c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Panduan Pelatihan Laravel 48 new.pdf"
+                "file": "Briefing Awal Bootcamp.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Panduan Pelatihan Laravel 48 new.pdf",
+                "file": "Briefing Awal Bootcamp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Panduan Pelatihan Laravel 48 new.pdf",
+                "file": "Briefing Awal Bootcamp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Panduan Pelatihan Laravel 48 new.pdf"
+                "file": "Briefing Awal Bootcamp.md"
               }
             }
           }
@@ -146,6 +148,8 @@
   },
   "active": "694df48dc0fc8411",
   "lastOpenFiles": [
+    "Catatan Khusus Laravel",
+    "Panduan Pelatihan Laravel 48 new.pdf",
     "6. GIT/Catatan tentang GIT.md",
     "7. PHP Dasar 1/array.php",
     "7. PHP Dasar 1/string.php",
@@ -157,7 +161,6 @@
     "doc/deep-copy.png.md",
     "doc",
     "example-app/vendor/hamcrest/hamcrest-php/README.md",
-    "Panduan Pelatihan Laravel 48 new.pdf",
     "6. GIT/im-sanbercode-laravel-web-dev/motivasi.txt",
     "6. GIT/im-sanbercode-laravel-web-dev/data_peserta.txt",
     "6. GIT/im-sanbercode-laravel-web-dev/README.md",
